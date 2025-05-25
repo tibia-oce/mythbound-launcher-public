@@ -1,0 +1,8 @@
+version: 1.5.5
+files:
+  - url: mythbound-launcher.AppImage
+    sha512: 0f74e9a34ae3f139feba2ef9f6025396727b37b74d7eec02acec74c0a57591e2caa48c52a1f8e80dbb94b4ff579eef80dbdea12b12df7d31bcf05dd1770a95ae
+    size: 125953629
+path: mythbound-launcher.AppImage
+sha512: 0f74e9a34ae3f139feba2ef9f6025396727b37b74d7eec02acec74c0a57591e2caa48c52a1f8e80dbb94b4ff579eef80dbdea12b12df7d31bcf05dd1770a95ae
+releaseDate: '2025-05-25T02:58:18.875Z'

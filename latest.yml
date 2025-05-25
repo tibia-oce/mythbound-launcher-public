@@ -1,0 +1,8 @@
+version: 1.5.5
+files:
+  - url: mythbound-launcher-setup.exe
+    sha512: 363ac70310564195273d5deb4913396202ed41a95ff5ae4bfe9cc0e242182e1fb7363ba7e96e12401d6d242b971902d7daf6b35ecead548c3f16b2d00f7c3432
+    size: 100379315
+path: mythbound-launcher-setup.exe
+sha512: 363ac70310564195273d5deb4913396202ed41a95ff5ae4bfe9cc0e242182e1fb7363ba7e96e12401d6d242b971902d7daf6b35ecead548c3f16b2d00f7c3432
+releaseDate: '2025-05-25T02:58:18.493Z'
