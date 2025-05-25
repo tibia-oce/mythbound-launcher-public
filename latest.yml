@@ -1,8 +1,8 @@
 version: 1.5.8
 files:
-  - url: mythbound-launcher-windows.zip 
-    sha512: a3a452c72c6e55fb26fde977c544b085a391f80455cfd42730bb4821120cad4d00b3d0dfb1edfdb369db5958386c12fda1b43dae3c8db8e1dcf98ed643a5947f
-    size: 135005180
-path: mythbound-launcher-windows.zip 
-sha512: a3a452c72c6e55fb26fde977c544b085a391f80455cfd42730bb4821120cad4d00b3d0dfb1edfdb369db5958386c12fda1b43dae3c8db8e1dcf98ed643a5947f
-releaseDate: '2025-05-25T03:44:16.758Z'
+  - url: mythbound-launcher-setup.exe
+    sha512: dd0c1b4b2cd9dcac1a5843cfc8d651c9e0d07995a5464ef9e40a1f1989e41f821c0a2eb6d1c5652bf23ef0737e2fff47aa75dd08ecd77dcb4d9818d6d77425f2
+    size: 100379365
+path: mythbound-launcher-setup.exe
+sha512: dd0c1b4b2cd9dcac1a5843cfc8d651c9e0d07995a5464ef9e40a1f1989e41f821c0a2eb6d1c5652bf23ef0737e2fff47aa75dd08ecd77dcb4d9818d6d77425f2
+releaseDate: '2025-05-25T04:39:56.625Z'
